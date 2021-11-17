@@ -41,6 +41,12 @@ Si no tiene XAMPP instalado debera descargarlo de https://www.apachefriends.org/
 - El orden para un funcionamiento correcto de la base de datos es: 
 ```
 
+*Instalacion de la aplicación:*
+
+```
+- Nos descargaremos todos los archivos de la aplicación, para que funcione correctamente, deberemos ponerlos EXACTAMENTE como se nos nuestra en el repositorio de Github, además, deberemos ponerlo en la carpeta de xampp\htdocs\www y dentro creamos una carpeta donde pondremos el projecto.
+```
+
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Ejecutando las pruebas ⚙️
