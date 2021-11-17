@@ -45,13 +45,14 @@ Si no tiene XAMPP instalado debera descargarlo de https://www.apachefriends.org/
 
 ```
 - Nos descargaremos todos los archivos de la aplicación, para que funcione correctamente, deberemos ponerlos EXACTAMENTE como se nos nuestra en el repositorio de Github, además, deberemos ponerlo en la carpeta de xampp\htdocs\www y dentro creamos una carpeta donde pondremos el projecto.
+- Tambien tenemos la opcion de entrar en https://experiaexperience.000webhostapp.com/ para visualizar la pagina web completamente funcional.
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Ahora, dentro de los registros de la base de datos, buscaremos el nombre de un camarero y su contraseña para poder acceder a la pagina principal y ver como funciona_
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Una vez dentro de la pagina podremos visualizar las salas, terrazas y VIPs dentro del restaurante a modo de menu, si le damos nos saldran todas las salas, terrazas o VIPs, y si volvemos a pulsar en ellos, se nos abrira una modalbox que nos permitira reservar/liberar las mesas del restaurante._
 
 ### Analice las pruebas end-to-end 🔩
 
