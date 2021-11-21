@@ -50,29 +50,11 @@ Si no tiene XAMPP instalado debera descargarlo de https://www.apachefriends.org/
 
 _Ahora, dentro de los registros de la base de datos, buscaremos el nombre de un camarero y su contraseña para poder acceder a la pagina principal y ver como funciona_
 
-## Ejecutando las pruebas ⚙️
-
-_Una vez dentro de la pagina podremos visualizar las salas, terrazas y VIPs dentro del restaurante a modo de menu, si le damos nos saldran todas las salas, terrazas o VIPs, y si volvemos a pulsar en ellos, se nos abrira una modalbox que nos permitira reservar/liberar las mesas del restaurante._
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Despliegue 📦
 
 _Para subir la pagina usamos 000webhost_
+
+*Aqui tenemos el link de la página: https://experiaexperience.000webhostapp.com/view/login.php*
 
 ## Construido con 🛠️
 
