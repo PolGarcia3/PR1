@@ -56,13 +56,13 @@ _Para subir la pagina usamos 000webhost_
 
 *Aqui tenemos el link de la página: https://experiaexperience.000webhostapp.com/view/login.php*
 
-*Para poder usar la pagina correctamente utilizaremos el usuario*
+*Para poder usar la pagina correctamente utilizaremos el usuario: *
 ```
 Paco@gmail.com
 ```
-*Con contraseña*
+*Con contraseña: *
 ```
-"queQWE123"
+queQWE123
 ```
 
 ## Construido con 🛠️
