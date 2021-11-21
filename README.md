@@ -63,6 +63,10 @@ Paco@gmail.com
 queQWE123
 ```
 
+## Versionado 📌
+
+_Nuestro proyecto se en la version 1.10.0_
+
 ## Construido con 🛠️
 
 _Para nuestro proyecto hemos usado Visual Studio Code y los soguientes lenguajes de programación:_
