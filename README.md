@@ -85,7 +85,7 @@ _Para nuestro proyecto hemos usado Visual Studio Code y los soguientes lenguajes
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [README.md](https://github.com/PolGarcia3/PR1/edit/main/README.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
