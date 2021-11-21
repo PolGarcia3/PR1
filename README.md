@@ -48,8 +48,6 @@ Si no tiene XAMPP instalado debera descargarlo de https://www.apachefriends.org/
 - Tambien tenemos la opcion de entrar en https://experiaexperience.000webhostapp.com/ para visualizar la pagina web completamente funcional.
 ```
 
-_Ahora, dentro de los registros de la base de datos, buscaremos el nombre de un camarero y su contraseña para poder acceder a la pagina principal y ver como funciona_
-
 ## Despliegue 📦
 
 _Para subir la pagina usamos 000webhost_
